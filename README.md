@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArinhaAdhikari
 - 👀 I’m interested in Web Development
-- 🌱 I’m a MERN Stack Developer
+- 🌱 I’m a Full Stack Java Developer
 - 💞️ I’m looking to collaborate on projects that make life easy
 - 📫 Reach me by email on arinhaadhikari@gmail.com
 - ✨Actively looking for job
